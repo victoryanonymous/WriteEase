@@ -1,5 +1,3 @@
-// ImageGallery.js
-
 import React from 'react';
 
 const Image = React.memo(({ src, alt }) => (
